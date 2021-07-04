@@ -5,13 +5,13 @@
 }
 
 p {
-    font-size: larger;
-    font-weight: 20;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: medium;
+    font-weight: 10;
 }
 
 h1 {
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
 }
 
 .click {
