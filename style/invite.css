@@ -4,6 +4,7 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-left: 50px;
 }
 
 body{
@@ -21,7 +22,6 @@ img:hover{
 }
 
 .img {
-    height: 80%;
+    height: auto;
     width: 80%;
-    margin-left: 100px;
 }
