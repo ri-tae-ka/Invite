@@ -4,6 +4,10 @@
     white-space: pre-wrap;
 }
 
+body {
+    background-color: rgb(168, 214, 252);
+}
+
 p {
     font-family: sans-serif;
     text-align: center;
