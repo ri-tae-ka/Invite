@@ -1,3 +1,10 @@
+body{
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Mickey_Mouse_Cursor.png) , default !important;
+}
+a{
+    cursor: url(https://cdn.custom-cursor.com/db/8225/32/anime-one-piece-trafalgar-and-sword-pointer.png) , pointer !important;;
+}
+
 .content {
     text-align: center;
     display: inline-block;
